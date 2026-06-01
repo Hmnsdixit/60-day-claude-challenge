@@ -1,8 +1,6 @@
-# 60-day-claude-challenge
-A 60-day public learning journey exploring Claude AI, prompt engineering, AI tools, automation, and real-world AI projects.
 # 🚀 60 Day Claude Challenge
 
-Welcome to my 60-day journey of learning, building, and experimenting with Claude AI.
+Welcome to my 60-day journey of learning, building, and experimenting with Claude AI, Prompt engineering, AI tools, Automation, and real-world AI projects
 
 ## Goals
 - Learn Claude AI deeply
