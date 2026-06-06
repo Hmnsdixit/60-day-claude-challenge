@@ -1,0 +1,103 @@
+# Day 6 - ATS Resume Optimization Prompt
+
+## Challenge Objective
+
+Create a prompt that transforms AI into an ATS Optimization Expert and Resume Writer capable of improving ATS compatibility while maintaining recruiter readability.
+
+---
+
+## Original Prompt
+
+You are an ATS optimization expert and resume writer.
+
+Rewrite my resume for maximum ATS parsing and recruiter readability while keeping every claim truthful to the source.
+
+Requirements:
+
+* ATS score analysis
+* Recruiter-friendly formatting
+* Keyword optimization
+* One-page ATS-friendly resume
+* Professional Summary
+* Education
+* Experience
+* Projects
+* Skills
+* Certifications
+
+Rules:
+
+* Use only information from the resume
+* Never invent achievements or metrics
+* Remove redundancy
+* Use strong action verbs
+* Keep everything truthful
+
+---
+
+## Original Resume
+
+Add screenshots of your original resume here.
+
+### Screenshot
+
+![Original Resume](original-resume.png)
+
+---
+
+## Optimized Resume
+
+Add screenshots of your ATS-optimized resume here.
+
+### Screenshot
+
+![Optimized Resume](optimized-resume.png)
+
+---
+
+## ATS Improvements
+
+* Improved ATS compatibility
+* Better keyword alignment
+* Cleaner section structure
+* Enhanced recruiter readability
+* Reduced redundancy
+* Stronger action verbs
+* One-page ATS-friendly format
+
+---
+
+## Key Learnings
+
+### 1. Prompt Structure Matters
+
+A detailed prompt generates higher-quality outputs.
+
+### 2. Constraints Reduce Hallucinations
+
+Explicit rules prevent AI from inventing information.
+
+### 3. ATS Formatting Is Critical
+
+Simple formatting improves ATS parsing.
+
+### 4. Context Improves Accuracy
+
+Providing complete information leads to better resume optimization.
+
+### 5. Better Prompts Produce Better Results
+
+Clear instructions lead to more reliable outputs.
+
+---
+
+## Outcome
+
+Successfully created and tested an ATS Resume Optimization Prompt that generates recruiter-friendly and ATS-compatible resumes.
+
+---
+
+#60DaysClaudeChallenge
+#Day6
+#ATSResume
+#PromptEngineering
