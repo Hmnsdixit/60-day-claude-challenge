@@ -1,0 +1,196 @@
+# Day 7 - Choosing the Right Claude Model and Effort Level
+
+## Overview
+
+Today I learned that AI productivity is not about using the most powerful model for every task.
+
+The real advantage comes from selecting the right Claude model and effort level based on the type of work being performed.
+
+---
+
+## Objective
+
+Understand:
+
+* When to use Haiku
+* When to use Sonnet
+* When to use Opus
+* How effort levels affect output quality
+* How to build an efficient AI workflow
+
+---
+
+## Claude Models
+
+### Haiku
+
+Best for:
+
+* Quick answers
+* Summaries
+* Brainstorming
+* Simple research
+* Fast productivity tasks
+
+#### Key Benefit
+
+Fastest response speed with lower resource usage.
+
+---
+
+### Sonnet
+
+Best for:
+
+* Learning
+* Coding
+* Debugging
+* Content creation
+* Resume optimization
+* Daily productivity
+
+#### Key Benefit
+
+Best balance of quality, speed, and cost.
+
+---
+
+### Opus
+
+Best for:
+
+* Deep research
+* Business strategy
+* Complex reasoning
+* Long-form reports
+* High-value decision making
+
+#### Key Benefit
+
+Highest reasoning capability for complex tasks.
+
+---
+
+## Effort Levels
+
+### Low
+
+Use for:
+
+* Quick questions
+* Simple tasks
+* Fast responses
+
+### Standard
+
+Use for:
+
+* Most daily work
+* Learning
+* Coding
+* Content creation
+
+### High
+
+Use for:
+
+* Important analysis
+* Detailed planning
+* Advanced problem solving
+
+### Max
+
+Use for:
+
+* Mission-critical work
+* Deep research
+* Complex strategic decisions
+
+---
+
+## My Recommended Workflow
+
+| Task              | Model  | Effort          |
+| ----------------- | ------ | --------------- |
+| Quick Questions   | Haiku  | Low             |
+| Learning          | Sonnet | Standard        |
+| Coding            | Sonnet | Standard / High |
+| Resume Building   | Sonnet | Standard        |
+| Content Creation  | Sonnet | Standard        |
+| Deep Research     | Opus   | High            |
+| Business Strategy | Opus   | Max             |
+
+---
+
+## Biggest Learnings
+
+1. Different models are designed for different tasks.
+2. More effort does not always mean better productivity.
+3. Fast tasks should use fast models.
+4. Deep analysis requires stronger reasoning.
+5. Choosing the right model improves efficiency.
+
+---
+
+## Biggest Mistakes to Avoid
+
+* Using Opus for simple tasks
+* Using Haiku for deep research
+* Using Max effort for every request
+* Not providing enough context
+* Ignoring model strengths
+
+---
+
+## Final Recommendation
+
+If I could use only one model and one effort level for most of my work:
+
+### Model
+
+Sonnet
+
+### Effort
+
+Standard
+
+### Why?
+
+Sonnet provides the best balance of:
+
+* Speed
+* Quality
+* Cost
+* Flexibility
+
+It is suitable for learning, coding, content creation, career preparation, and most day-to-day AI tasks.
+
+---
+
+## Key Takeaway
+
+The best AI workflow is not:
+
+More Power = Better Results
+
+The best workflow is:
+
+Right Model + Right Effort + Right Task = Maximum Productivity
+
+---
+
+## Challenge Progress
+
+* [x] Day 1 - AI Personality Profile
+* [x] Day 2 - Prompt Engineering
+* [x] Day 3 - Role-Based Prompting
+* [x] Day 4 - AI Career Roadmap
+* [x] Day 5 - Power of Context
+* [x] Day 6 - ATS Resume Optimization
+* [x] Day 7 - Claude Models & Effort Levels
+
+#60DaysClaudeChallenge
+#ClaudeAI
+#PromptEngineering
+#AIWorkflow
+#Productivity
