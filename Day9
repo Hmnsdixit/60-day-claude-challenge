@@ -1,0 +1,248 @@
+# Day 9 - NutriScope: AI-Powered Nutrition Intelligence Dashboard
+
+## Overview
+
+Today I designed and explored a nutrition analytics application called **NutriScope**.
+
+The objective was to combine nutrition tracking, data analytics, visualization, and personalized recommendations into a modern dashboard experience.
+
+NutriScope helps users understand their daily nutrition intake, identify nutrient deficiencies, and make informed dietary decisions.
+
+---
+
+## Project Objective
+
+Build a nutrition intelligence platform that can:
+
+* Track daily food consumption
+* Calculate macro and micronutrient intake
+* Monitor nutrition goals
+* Detect deficiencies and excesses
+* Generate personalized recommendations
+* Provide an interactive dashboard experience
+
+---
+
+## Core Features
+
+### User Profile
+
+Users can enter:
+
+* Age
+* Gender
+* Height
+* Weight
+* Activity Level
+* Dietary Preference
+
+Diet Types:
+
+* Vegetarian
+* Non-Vegetarian
+* Eggetarian
+
+---
+
+## Food Logging System
+
+Track food intake with:
+
+* Food Name
+* Quantity
+* Unit
+* Nutritional Values
+
+Supported Foods:
+
+* Rice
+* Roti
+* Dal
+* Paneer
+* Curd
+* Chana
+* Rajma
+* Banana
+* Apple
+* Milk
+* Oats
+* Bread
+* Egg
+* Chicken
+* Fish
+* Potato
+* Poha
+* Idli
+* Dosa
+* Spinach
+
+---
+
+## Nutrients Tracked
+
+### Macronutrients
+
+* Calories
+* Protein
+* Carbohydrates
+* Fat
+* Fiber
+
+### Micronutrients
+
+* Iron
+* Calcium
+* Vitamin C
+* Vitamin D
+* Vitamin B12
+
+---
+
+## Dashboard Analytics
+
+### Key Metrics
+
+* Energy Consumed
+* Protein Intake
+* Carbohydrate Intake
+* Fat Intake
+* Nutrient Completion Percentage
+
+### Charts
+
+* Energy Progress Chart
+* Macro Distribution Chart
+* Nutrient Distribution Chart
+* Daily Intake Analysis
+
+### Analysis Panels
+
+* Top Deficiencies
+* Top Excesses
+* Nutrient Intake Table
+
+---
+
+## Personalized Recommendations
+
+NutriScope generates recommendations based on:
+
+### Food Additions
+
+Suggests foods to improve deficiencies.
+
+Examples:
+
+* Spinach for Iron
+* Milk for Calcium
+* Eggs for Protein
+* Fruits for Vitamins
+
+### Food Swaps
+
+Suggests healthier alternatives.
+
+### Portion Adjustments
+
+Recommends quantity changes based on goals.
+
+---
+
+## Advanced Features
+
+### 2-Day Meal Planner
+
+Creates balanced meal plans.
+
+### Risk Analysis
+
+Evaluates:
+
+* Heart Health Risk
+* Bone Health Risk
+* Diabetes Risk
+* Obesity Risk
+
+### Educational Guidance
+
+Provides:
+
+* Nutrition Disclaimer
+* Trusted Nutrition Sources
+* Healthy Eating Tips
+
+---
+
+## Design Goals
+
+### User Experience
+
+* Mobile Responsive
+* Interactive Dashboard
+* Easy Food Logging
+* Beginner Friendly
+
+### Visual Design
+
+* Premium SaaS UI
+* Dark Theme
+* Modern Cards
+* Clean Typography
+* Chart-Based Insights
+
+---
+
+## Key Learnings
+
+### 1. Data Visualization Improves Understanding
+
+Charts make nutrition data easier to interpret.
+
+### 2. Personalized Insights Are Powerful
+
+Users benefit more from tailored recommendations.
+
+### 3. AI Can Support Better Health Decisions
+
+Nutrition tracking becomes more actionable with intelligent suggestions.
+
+### 4. Dashboard Design Matters
+
+Good UX improves engagement and usability.
+
+### 5. Data + AI + Health = High Impact Products
+
+Combining analytics and health insights creates meaningful user value.
+
+---
+
+## Key Takeaway
+
+The most valuable AI applications are not those that simply display data.
+
+They help users understand information, identify problems, and take action.
+
+**Nutrition Data + AI Insights + Visualization = Better Health Decisions**
+
+---
+
+## Challenge Progress
+
+* [x] Day 1 - AI Personality Profile
+* [x] Day 2 - Prompt Engineering
+* [x] Day 3 - Role-Based Prompting
+* [x] Day 4 - AI Career Roadmap
+* [x] Day 5 - Power of Context
+* [x] Day 6 - ATS Resume Optimization
+* [x] Day 7 - Claude Models & Effort Levels
+* [x] Day 8 - Personal Environmental Health Analyzer
+* [x] Day 9 - NutriScope Nutrition Dashboard
+* [ ] Day 10
+
+#60DaysClaudeChallenge
+#ClaudeAI
+#NutritionTech
+#HealthTech
+#DashboardDesign
+#DataAnalytics
+#DataVisualization
