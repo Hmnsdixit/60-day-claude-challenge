@@ -1,0 +1,231 @@
+# Day 10 - AI-Powered Personal Portfolio Website
+
+## Overview
+
+Today I explored how AI can accelerate personal branding and web development by creating a modern portfolio website.
+
+The goal was to design a professional, recruiter-friendly portfolio that showcases skills, projects, experience, achievements, and contact information in a clean and interactive format.
+
+---
+
+## Project Objective
+
+Build a complete personal portfolio website that:
+
+* Highlights technical skills
+* Showcases projects and achievements
+* Supports recruiter-friendly navigation
+* Strengthens personal branding
+* Provides a professional online presence
+
+---
+
+## Core Features
+
+### Hero Section
+
+Includes:
+
+* Professional profile photo
+* Name and designation
+* Dynamic typing animation
+* Social media links
+* Resume download option
+
+---
+
+### About Me Section
+
+Provides:
+
+* Professional introduction
+* Career objectives
+* Technical interests
+* Personal branding statement
+
+---
+
+### Skills Section
+
+#### Technical Skills
+
+* Python
+* SQL
+* Machine Learning
+* FastAPI
+* Streamlit
+* Django
+* Power BI
+
+#### Tools
+
+* VS Code
+* Git & GitHub
+* Jupyter Notebook
+* PostgreSQL
+
+#### Soft Skills
+
+* Communication
+* Problem Solving
+* Leadership
+* Team Collaboration
+
+---
+
+## Featured Projects
+
+### RAG-Based AI Document Q&A System
+
+Built a Retrieval-Augmented Generation (RAG) application that allows users to upload documents and retrieve contextual answers using semantic search.
+
+**Tech Stack:**
+Python, FastAPI, Streamlit, LangChain, HuggingFace Embeddings, FAISS
+
+---
+
+### Attendance Management System
+
+Automated attendance tracking platform with real-time record maintenance and reporting capabilities.
+
+**Tech Stack:**
+Python, Django, SQLite3, HTML, CSS, Bootstrap
+
+---
+
+### Dix.AI
+
+AI-powered productivity assistant for meeting notes, task management, and workflow automation.
+
+**Tech Stack:**
+Python, FastAPI, OpenAI API, PostgreSQL, React, Streamlit, Docker
+
+---
+
+## Experience & Achievements
+
+Showcases:
+
+* Technical Trainee Experience
+* Data Analyst Internship
+* Certifications
+* Professional Achievements
+
+---
+
+## Design Features
+
+### User Experience
+
+✅ Mobile Responsive
+
+✅ Smooth Scrolling
+
+✅ Interactive Navigation
+
+✅ Active Section Highlighting
+
+### Visual Design
+
+✅ Modern SaaS Style
+
+✅ Dark/Light Theme Toggle
+
+✅ Clean Typography
+
+✅ Premium UI Components
+
+✅ Project Cards
+
+✅ Skill Progress Bars
+
+---
+
+## Technologies Used
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Tailwind CSS
+
+### Development Tools
+
+* VS Code
+* Git
+* GitHub
+
+---
+
+## Key Learnings
+
+### 1. Personal Branding Is Essential
+
+A portfolio website acts as a digital identity and professional showcase.
+
+### 2. Projects Demonstrate Real Skills
+
+Practical projects help recruiters understand technical capabilities.
+
+### 3. Design Influences First Impressions
+
+Clean UI and good UX improve engagement.
+
+### 4. Responsive Design Is Mandatory
+
+Modern portfolios must work seamlessly across devices.
+
+### 5. AI Accelerates Development
+
+AI can significantly reduce the time required to build professional websites.
+
+---
+
+## Benefits of a Portfolio Website
+
+* Stronger Online Presence
+* Better Recruiter Visibility
+* Centralized Project Showcase
+* Professional Branding
+* Improved Networking Opportunities
+
+---
+
+## Biggest Insight
+
+A portfolio website is more than a collection of projects.
+
+It is a personal brand, proof of skills, and a professional asset that can create new opportunities.
+
+---
+
+## Key Takeaway
+
+**Skills + Projects + Personal Branding = Career Growth**
+
+Building a strong online presence is one of the most valuable investments for any tech professional.
+
+---
+
+## Challenge Progress
+
+* [x] Day 1 - AI Personality Profile
+* [x] Day 2 - Prompt Engineering
+* [x] Day 3 - Role-Based Prompting
+* [x] Day 4 - AI Career Roadmap
+* [x] Day 5 - Power of Context
+* [x] Day 6 - ATS Resume Optimization Prompt
+* [x] Day 7 - Claude Models & Effort Levels
+* [x] Day 8 - Personal Environmental Health Analyzer
+* [x] Day 9 - NutriScope Nutrition Dashboard
+* [x] Day 10 - AI-Powered Personal Portfolio Website
+* [ ] Day 11
+
+#60DaysClaudeChallenge
+#ClaudeAI
+#PortfolioWebsite
+#WebDevelopment
+#PersonalBranding
+#BuildInPublic
+#AIProjects
