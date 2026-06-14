@@ -1,0 +1,318 @@
+# Day 14 - AI Job Red Flag Detector
+
+## Overview
+
+Today I explored how AI can help job seekers evaluate job opportunities before applying.
+
+Many candidates focus only on salary, job title, or company name. However, important warning signs often exist within job descriptions and company information.
+
+To solve this problem, I used an AI-powered Job Red Flag Detector that analyzes job postings, hiring practices, company details, and workplace indicators to identify potential risks and opportunities.
+
+---
+
+## Project Objective
+
+Build an AI system that can:
+
+* Analyze job descriptions
+* Evaluate company information
+* Detect hiring risks
+* Identify workplace red flags
+* Assess role suitability
+* Generate interview validation questions
+* Support smarter career decisions
+
+---
+
+## Job Analyzed
+
+### Position
+
+AI Engineer
+
+### Company
+
+Quicksun Technologies
+
+### Experience Required
+
+0–2 Years
+
+### Salary Range
+
+3–6 LPA
+
+### Location
+
+Gurugram
+
+---
+
+## Analysis Framework
+
+The AI evaluated:
+
+### Requirements Analysis
+
+* Experience expectations
+* Skills requirements
+* Responsibilities
+* Technical stack
+
+### Workplace Analysis
+
+* Culture indicators
+* Work-life balance signals
+* Growth opportunities
+
+### Hiring Analysis
+
+* Salary transparency
+* Hiring process clarity
+* Role definition
+
+### Company Analysis
+
+* Stability indicators
+* Reputation factors
+* Growth signals
+
+---
+
+## Overall Risk Score
+
+### Risk Score
+
+**28/100**
+
+### Risk Level
+
+🟢 Low to Moderate Risk
+
+The opportunity appears suitable for early-career AI professionals with a reasonable balance between learning opportunities and expectations.
+
+---
+
+## Top Red Flags Identified
+
+### 1. Broad Technology Expectations
+
+The role expects knowledge of:
+
+* Python
+* Machine Learning
+* Deep Learning
+* Generative AI
+* RAG
+* LangChain
+* LlamaIndex
+* CrewAI
+* AutoGen
+* FastAPI
+* SQL
+* Cloud Platforms
+
+For an entry-level role, the technology stack is extensive.
+
+---
+
+### 2. Salary Range Below Some Market Benchmarks
+
+Salary:
+
+**3–6 LPA**
+
+Although acceptable for freshers, compensation may be lower compared to some GenAI-focused opportunities.
+
+---
+
+### 3. Limited Public Company Information
+
+Insufficient details regarding:
+
+* Team structure
+* Funding
+* AI product portfolio
+* Organizational scale
+
+Additional research is recommended.
+
+---
+
+### 4. Mentorship Details Not Specified
+
+The job mentions growth opportunities but does not clearly describe:
+
+* Mentorship programs
+* Learning support
+* Technical training
+
+---
+
+## Positive Signals
+
+### Realistic Experience Requirement
+
+* 0–2 Years
+* Internship experience accepted
+
+Suitable for fresh graduates and early-career professionals.
+
+---
+
+### Strong AI Technology Stack
+
+Exposure to:
+
+* Generative AI
+* LLMs
+* RAG
+* LangChain
+* FastAPI
+* AI Automation
+
+---
+
+### Well-Defined Responsibilities
+
+Clear expectations regarding:
+
+* Model development
+* AI deployment
+* API integration
+* Performance monitoring
+
+---
+
+### Career Growth Opportunities
+
+The company highlights:
+
+* Innovation
+* AI Engineering growth
+* Real-world AI applications
+
+---
+
+### No Major Toxic Language
+
+No indications of:
+
+* Hustle culture
+* Rockstar developer expectations
+* Excessive ownership demands
+* Extreme work pressure
+
+---
+
+## Risk Breakdown
+
+| Category     | Risk Level |
+| ------------ | ---------- |
+| Requirements | Medium     |
+| Culture      | Low        |
+| Remote       | Low        |
+| Hiring       | Low        |
+| Company      | Medium     |
+
+---
+
+## Final Verdict
+
+### ✅ APPLY
+
+This opportunity aligns well with candidates interested in:
+
+* AI Engineering
+* Generative AI
+* RAG Systems
+* Python Development
+* Applied AI Solutions
+
+The role provides exposure to modern AI technologies and appears suitable for building practical industry experience.
+
+---
+
+## Smart Interview Questions Generated
+
+### Question 1
+
+What AI projects would I be working on during my first three to six months?
+
+### Question 2
+
+How is success measured for AI Engineers in this organization?
+
+### Question 3
+
+What mentorship and learning opportunities are available?
+
+### Question 4
+
+Which AI technologies are actively used in production today?
+
+### Question 5
+
+What career growth path exists for AI Engineers within the company?
+
+---
+
+## Key Learnings
+
+### 1. Not Every Job Posting Is Equal
+
+A strong title does not always indicate a strong opportunity.
+
+### 2. AI Can Improve Career Decisions
+
+AI can identify risks that candidates might overlook.
+
+### 3. Salary Is Not the Only Factor
+
+Growth opportunities, mentorship, and project exposure are equally important.
+
+### 4. Interviews Are Two-Way Evaluations
+
+Candidates should evaluate employers just as employers evaluate candidates.
+
+### 5. Smart Questions Reduce Career Risk
+
+Asking the right questions helps uncover important information before accepting an offer.
+
+---
+
+## Key Takeaway
+
+AI can help job seekers move beyond simple job applications and make more informed career decisions.
+
+By identifying red flags, validating opportunities, and generating meaningful interview questions, candidates can significantly reduce career risk and improve job selection quality.
+
+**Better Research + Better Questions + Better Decisions = Better Career Growth**
+
+---
+
+## Challenge Progress
+
+* [x] Day 1 - AI Personality Profile
+* [x] Day 2 - Prompt Engineering
+* [x] Day 3 - Role-Based Prompting
+* [x] Day 4 - AI Career Roadmap
+* [x] Day 5 - Context Engineering
+* [x] Day 6 - ATS Resume Optimization
+* [x] Day 7 - Claude Models & Effort Levels
+* [x] Day 8 - Personal Environmental Health Analyzer
+* [x] Day 9 - NutriScope Nutrition Dashboard
+* [x] Day 10 - AI-Powered Personal Portfolio Website
+* [x] Day 11 - ATS Resume Optimizer & Resume Generator
+* [x] Day 12 - Job Search & Personal Branding Toolkit
+* [x] Day 13 - AI-Powered Job Discovery & Career Match System
+* [x] Day 14 - AI Job Red Flag Detector
+* [ ] Day 15
+
+#60DaysClaudeChallenge
+#ClaudeAI
+#CareerGrowth
+#JobSearch
+#AIEngineer
+#InterviewPreparation
+#BuildInPublic
