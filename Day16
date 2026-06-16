@@ -1,0 +1,245 @@
+# Day 16 - Claude Custom Skills for Stock Fundamental Research
+
+## Overview
+
+Today I explored one of Claude's most powerful productivity features: **Custom Skills**.
+
+Instead of repeatedly writing the same prompt for stock analysis, I created a reusable skill called:
+
+**stock-fundamental-research**
+
+This skill allows Claude to generate structured, evidence-based stock research reports using a predefined framework focused on business fundamentals, financial performance, valuation, risks, ownership trends, and competitive positioning.
+
+---
+
+## Objective
+
+Create a reusable AI workflow that can:
+
+* Analyze listed companies
+* Compare stocks
+* Evaluate business quality
+* Review financial health
+* Identify risk factors
+* Generate investor-friendly research reports
+
+without rewriting prompts every time.
+
+---
+
+## Custom Skill Created
+
+### Skill Name
+
+```text
+stock-fundamental-research
+```
+
+### Description
+
+Analyze Indian and global listed companies using fundamentals, financial statements, business quality, competitive advantages, valuation, risks, and growth prospects.
+
+Generate evidence-based research reports and investor-friendly summaries.
+
+Never provide direct buy, sell, or hold recommendations.
+
+---
+
+## Key Features
+
+### Quick Take Mode
+
+Provides:
+
+* Company Overview
+* Market Cap
+* P/E Ratio
+* ROE & ROCE
+* Growth Trend
+* Key Strengths
+* Risk Factors
+* Fundamental Quality Assessment
+
+---
+
+### Deep Dive Mode
+
+Provides:
+
+* Financial Analysis
+* Revenue & Profit Trends
+* Balance Sheet Health
+* Valuation Metrics
+* Ownership Analysis
+* Competitive Positioning
+* Peer Comparison
+* Business Risks
+
+---
+
+### Compare Mode
+
+Compare multiple companies using:
+
+* Market Capitalization
+* Revenue Growth
+* Profit Growth
+* ROE
+* ROCE
+* Debt Levels
+* Valuation Ratios
+* Shareholding Patterns
+
+---
+
+### Portfolio Fit Mode
+
+Analyze:
+
+* Sector Exposure
+* Diversification
+* Business Overlap
+* Risk Concentration
+
+---
+
+## Stocks Analyzed
+
+### Example Companies
+
+* TCS
+* Infosys
+* Reliance Industries
+* HDFC Bank
+* Tata Motors
+
+---
+
+## Key Learnings
+
+### 1. Reusable Skills Save Time
+
+Creating a reusable workflow is more efficient than rewriting prompts repeatedly.
+
+### 2. Consistent Frameworks Improve Research Quality
+
+Every company is analyzed using the same structured methodology.
+
+### 3. AI Can Act as a Research Assistant
+
+Custom Skills transform Claude from a chatbot into a specialized research tool.
+
+### 4. Systems Scale Better Than Individual Prompts
+
+The most valuable AI workflows are reusable systems rather than one-time interactions.
+
+---
+
+## Practical Applications
+
+### Finance & Investing
+
+* Company Research
+* Fundamental Analysis
+* Sector Comparison
+* Risk Assessment
+
+### Business Research
+
+* Competitor Analysis
+* Industry Evaluation
+* Market Positioning
+
+### Learning
+
+* Understanding Financial Statements
+* Business Model Analysis
+* Valuation Concepts
+
+---
+
+## Important Principles Used
+
+* Evidence-based analysis
+* Source verification
+* No fabricated data
+* No investment recommendations
+* No buy/sell/hold advice
+* Focus on fundamentals and business quality
+
+---
+
+## Screenshots Included
+
+* Custom Skill Setup
+* Skill Configuration
+* Stock Analysis Report
+* Company Comparison Report
+* Risk Analysis Dashboard
+* Research Output Examples
+
+---
+
+## Key Takeaway
+
+Prompting is useful.
+
+Reusable AI systems are powerful.
+
+Custom Skills allow AI workflows to become repeatable, scalable, and significantly more productive.
+
+The future of AI productivity is not writing better prompts every time.
+
+It is building reusable systems that consistently deliver high-quality results.
+
+---
+
+## Challenge Progress
+
+✅ Day 1 – AI Personality Profile
+
+✅ Day 2 – Prompt Engineering
+
+✅ Day 3 – Role-Based Prompting
+
+✅ Day 4 – AI Career Roadmap
+
+✅ Day 5 – Context Engineering
+
+✅ Day 6 – ATS Resume Optimization
+
+✅ Day 7 – Claude Models & Effort Levels
+
+✅ Day 8 – Environmental Health Analyzer
+
+✅ Day 9 – NutriScope Nutrition Dashboard
+
+✅ Day 10 – AI Portfolio Website
+
+✅ Day 11 – ATS Resume Optimizer
+
+✅ Day 12 – Personal Branding Toolkit
+
+✅ Day 13 – AI Job Discovery System
+
+✅ Day 14 – Job Red Flag Detector
+
+✅ Day 15 – AI Life Analysis & Self Reflection
+
+✅ Day 16 – Custom Stock Research Skill
+
+#60DaysClaudeChallenge
+
+#ClaudeAI
+
+#ABTalksOnAI
+
+#StockResearch
+
+#CustomSkills
+
+#PromptEngineering
+
+#ArtificialIntelligence
+
+#LearningInPublic
