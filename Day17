@@ -1,0 +1,258 @@
+# Day 17 - AI-Powered Vehicle Cost Analysis Dashboard
+
+## Overview
+
+Today I built a Vehicle Cost Analysis Dashboard using Claude AI, a CSV dataset, and customized vehicle information.
+
+The objective was to transform raw vehicle and fuel-related data into a visually appealing, interactive HTML dashboard that provides actionable insights on ownership costs, fuel efficiency, maintenance expenses, and environmental impact.
+
+---
+
+## Objective
+
+Create a complete dashboard capable of analyzing:
+
+* Fuel Cost per Kilometer
+* Monthly Running Cost
+* Maintenance Expenses
+* Vehicle Age Impact
+* Environmental Impact
+* Alternative Fuel Economics
+* E85 Break-Even Analysis
+
+---
+
+## Vehicle Information Used
+
+| Parameter        | Value                                 |
+| ---------------- | ------------------------------------- |
+| Vehicle          | Tata Sierra Adventure Plus Turbo 2026 |
+| Fuel Type        | Petrol                                |
+| Usage            | City                                  |
+| Monthly Distance | 1000 KM                               |
+| Vehicle Age      | 3 Years                               |
+
+---
+
+## Dashboard Features
+
+### KPI Cards
+
+The dashboard automatically calculated:
+
+* Cost per KM
+* Monthly Fuel Cost
+* Maintenance Cost per KM
+* E85 Cost Comparison
+* Break-Even Fuel Price
+
+---
+
+### Interactive Visualizations
+
+#### Fuel Cost Comparison
+
+Compared:
+
+* Petrol
+* Diesel
+* CNG
+* EV
+* E85
+
+to identify cost efficiency across fuel types.
+
+---
+
+#### CO₂ Emission Analysis
+
+Visualized environmental impact using:
+
+* CO₂ per KM
+* Fuel-based emission comparisons
+* Sustainability metrics
+
+---
+
+#### Vehicle Age Analysis
+
+Analyzed:
+
+* Cost per KM by vehicle age
+* Maintenance cost growth
+* Age bucket comparisons
+
+Buckets Included:
+
+* New (0–2 Years)
+* Mid-Life (3–5 Years)
+* Aged (6–9 Years)
+* Old (10+ Years)
+
+---
+
+### E85 Economics Analysis
+
+The dashboard calculated:
+
+#### Pump Savings
+
+Percentage savings at fuel stations compared to petrol.
+
+#### Running Cost Penalty
+
+Impact of mileage differences on total ownership costs.
+
+#### Break-Even Price
+
+Price point where E85 becomes economically comparable to petrol.
+
+#### E85 Score
+
+Scored fuel viability based on:
+
+* Cost Efficiency
+* CO₂ Impact
+* Refueling Time
+* Maintenance Costs
+
+---
+
+## Key Findings
+
+### Fuel Economics
+
+* Fuel choice significantly impacts long-term ownership costs.
+* Running costs vary substantially across fuel types.
+* Vehicle age influences maintenance expenses more than fuel expenses.
+
+### Environmental Impact
+
+* Lower emissions do not always result in lower operating costs.
+* Sustainability and economics must be evaluated together.
+
+### Ownership Costs
+
+* Monthly running costs are strongly influenced by fuel efficiency and usage patterns.
+* Maintenance expenses increase gradually as vehicle age increases.
+
+---
+
+## Technical Concepts Practiced
+
+### Data Analysis
+
+* Data aggregation
+* Cost calculations
+* Metric generation
+
+### Dashboard Development
+
+* Responsive HTML
+* SVG Charts
+* KPI Cards
+* Interactive Visualizations
+
+### Prompt Engineering
+
+* Structured prompting
+* Business intelligence workflows
+* Dashboard generation using AI
+
+### Data Visualization
+
+* Comparative analysis
+* Trend analysis
+* Cost breakdowns
+* Environmental reporting
+
+---
+
+## Key Learnings
+
+### 1. Data Is More Valuable When Visualized
+
+Charts and dashboards make complex data easier to understand.
+
+### 2. AI Can Generate Complete Applications
+
+Claude can build production-style HTML dashboards directly from structured requirements.
+
+### 3. Business Intelligence Requires Context
+
+Raw numbers become meaningful only when connected to real-world decision making.
+
+### 4. Prompt Quality Determines Output Quality
+
+Well-structured prompts lead to significantly better dashboards and insights.
+
+---
+
+## Screenshots Included
+
+* Dashboard Overview
+* KPI Cards
+* Fuel Cost Analysis
+* Environmental Impact Charts
+* E85 Economics Section
+* Vehicle Age Analysis
+
+---
+
+## Key Takeaway
+
+AI is evolving from a conversational tool into a powerful application builder.
+
+By combining datasets, business logic, and visualization requirements, AI can generate interactive dashboards that support smarter, data-driven decisions.
+
+---
+
+## Challenge Progress
+
+✅ Day 1 – AI Personality Profile
+
+✅ Day 2 – Prompt Engineering
+
+✅ Day 3 – Role-Based Prompting
+
+✅ Day 4 – AI Career Roadmap
+
+✅ Day 5 – Context Engineering
+
+✅ Day 6 – ATS Resume Optimization
+
+✅ Day 7 – Claude Models & Effort Levels
+
+✅ Day 8 – Environmental Health Analyzer
+
+✅ Day 9 – NutriScope Nutrition Dashboard
+
+✅ Day 10 – AI Portfolio Website
+
+✅ Day 11 – ATS Resume Optimizer
+
+✅ Day 12 – Personal Branding Toolkit
+
+✅ Day 13 – AI Job Discovery System
+
+✅ Day 14 – Job Red Flag Detector
+
+✅ Day 15 – AI Life Analysis & Self Reflection
+
+✅ Day 16 – Custom Stock Research Skill
+
+✅ Day 17 – Vehicle Cost Analysis Dashboard
+
+#60DaysClaudeChallenge
+
+#ClaudeAI
+
+#ABTalksOnAI
+
+#DataAnalytics
+
+#DashboardDevelopment
+
+#BusinessIntelligence
+
+#LearningInPublic
