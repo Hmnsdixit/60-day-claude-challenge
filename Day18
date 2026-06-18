@@ -1,0 +1,282 @@
+# Day 18 - Brain Dump Action Planner | Claude Custom Skill
+
+## Overview
+
+Today I built a reusable **Claude Custom Skill** called **brain-dump-action-planner** that converts messy notes, meeting transcripts, brainstorming sessions, voice memos, and project discussions into a structured, interactive dashboard.
+
+Instead of manually reviewing long conversations, the skill automatically organizes information into summaries, action items, risks, blockers, decisions, and open questions.
+
+---
+
+# Objective
+
+Build a reusable AI workflow capable of transforming unstructured information into organized project management dashboards.
+
+---
+
+# Custom Skill
+
+### Skill Name
+
+```text
+brain-dump-action-planner
+```
+
+### Description
+
+Transforms messy notes, meeting transcripts, brainstorming sessions, and voice memos into structured summaries, action plans, decisions, risks, blockers, and task lists without inventing or assuming missing information.
+
+---
+
+# Features
+
+The generated dashboard includes:
+
+* Executive Summary
+* Key Takeaways
+* Action Items
+* Owners & Deadlines
+* Status Tracking
+* Open Questions
+* Risks & Blockers
+* Conflict Detection
+* Speaker-wise Decisions
+* Supporting Notes
+* Interactive HTML Dashboard
+
+---
+
+# Input Tested
+
+For testing, I used a sample **Quarterly Growth Strategy Meeting** transcript.
+
+The meeting included discussions on:
+
+* Revenue Growth
+* Enterprise Sales
+* Marketing Performance
+* Engineering Capacity
+* Customer Support
+* Hiring Plans
+* Budget Approval
+
+---
+
+# Dashboard Sections
+
+## Executive Summary
+
+Provides a concise overview of the entire meeting.
+
+---
+
+## Key Takeaways
+
+Highlights the most important discussion points.
+
+---
+
+## Action Items
+
+Displays tasks in a structured table containing:
+
+* Task
+* Owner
+* Deadline
+* Status
+* Priority
+
+---
+
+## Open Questions
+
+Captures unresolved issues and pending decisions.
+
+---
+
+## Risks & Blockers
+
+Identifies:
+
+* Dependencies
+* Technical Risks
+* Business Risks
+* Project Blockers
+
+---
+
+## Conflict Detection
+
+Highlights conflicting:
+
+* Decisions
+* Timelines
+* Ownership
+* Priorities
+
+---
+
+## Speaker Summary
+
+Groups information by speaker, including:
+
+* Key Contributions
+* Decisions
+* Assigned Actions
+
+---
+
+# Skills Practiced
+
+* Claude Custom Skills
+* Prompt Engineering
+* Workflow Automation
+* Knowledge Management
+* Meeting Intelligence
+* HTML Dashboard Generation
+* Information Organization
+
+---
+
+# Key Learnings
+
+### 1. AI Can Organize Unstructured Information
+
+Large meeting transcripts can be converted into structured dashboards within seconds.
+
+---
+
+### 2. Reusable Skills Improve Productivity
+
+Creating a Custom Skill eliminates the need to rewrite prompts for every meeting.
+
+---
+
+### 3. Better Organization Leads to Better Execution
+
+Clear action items, risks, and ownership improve project tracking and collaboration.
+
+---
+
+### 4. Prompt Engineering Enables Workflow Automation
+
+Well-designed prompts can automate repetitive documentation and planning tasks.
+
+---
+
+# Practical Applications
+
+* Team Meetings
+* Sprint Planning
+* Client Discussions
+* Brainstorming Sessions
+* Project Reviews
+* Class Notes
+* Workshop Summaries
+* Voice Memo Organization
+
+---
+
+# Screenshots Included
+
+* Custom Skill Setup
+* Skill Configuration
+* Dashboard Overview
+* Summary Section
+* Action Items
+* Risks & Blockers
+* Open Questions
+* Speaker Summary
+
+---
+
+# Project Files
+
+```
+Day18/
+│
+├── day18.md
+├── meeting-dashboard.html
+├── skill-setup.png
+├── dashboard-overview.png
+├── action-items.png
+├── risks-blockers.png
+├── speaker-summary.png
+└── key-learnings.png
+```
+
+---
+
+# Key Takeaway
+
+AI is evolving beyond content generation.
+
+By combining **Custom Skills**, **Prompt Engineering**, and **Workflow Automation**, we can transform messy information into structured, actionable dashboards that improve productivity and decision-making.
+
+---
+
+## Challenge Progress
+
+✅ Day 1 – AI Personality Profile
+
+✅ Day 2 – Prompt Engineering
+
+✅ Day 3 – Role-Based Prompting
+
+✅ Day 4 – AI Career Roadmap
+
+✅ Day 5 – Context Engineering
+
+✅ Day 6 – ATS Resume Optimization
+
+✅ Day 7 – Claude Models & Effort Levels
+
+✅ Day 8 – Environmental Health Analyzer
+
+✅ Day 9 – NutriScope Nutrition Dashboard
+
+✅ Day 10 – AI Portfolio Website
+
+✅ Day 11 – ATS Resume Optimizer
+
+✅ Day 12 – Personal Branding Toolkit
+
+✅ Day 13 – AI Job Discovery System
+
+✅ Day 14 – Job Red Flag Detector
+
+✅ Day 15 – AI Life Analysis
+
+✅ Day 16 – Stock Fundamental Research Skill
+
+✅ Day 17 – Vehicle Cost Analysis Dashboard
+
+✅ Day 18 – Brain Dump Action Planner
+
+---
+
+## Connect With Me
+
+💼 **LinkedIn:** [www.linkedin.com/in/himanshu-dixit-7907208a/](http://www.linkedin.com/in/himanshu-dixit-7907208a/)
+
+💻 **GitHub:** https://github.com/Hmnsdixit
+
+---
+
+#60DaysClaudeChallenge
+
+#ClaudeAI
+
+#ABTalksOnAI
+
+#PromptEngineering
+
+#CustomSkills
+
+#AIAutomation
+
+#KnowledgeManagement
+
+#Dashboard
+
+#LearningInPublic
