@@ -1,0 +1,266 @@
+# Day 20 - AI Face Puzzle Game | Claude AI Interactive Web Application
+
+## Overview
+
+Today I built an **AI-powered Face Puzzle Game** using **HTML, CSS, and JavaScript** with the help of **Claude AI**.
+
+The application captures a user's face using the device webcam and instantly converts the image into a playable puzzle with multiple difficulty levels. It also includes real-time gameplay statistics, drag-and-drop interactions, touch support, and a local leaderboard.
+
+---
+
+# Objective
+
+Build a complete browser-based puzzle game that combines:
+
+* Webcam Integration
+* Image Processing
+* Puzzle Generation
+* Interactive Gameplay
+* Performance Tracking
+
+---
+
+# Features
+
+## 📷 Live Camera Access
+
+* Webcam permission using MediaDevices API
+* Live camera preview
+* Capture photo directly from browser
+
+---
+
+## 🧩 Puzzle Generation
+
+After capturing a photo, users can select:
+
+* 3×3 (Easy)
+* 4×4 (Medium)
+* 5×5 (Hard)
+
+The captured image is automatically divided into puzzle pieces and shuffled for gameplay.
+
+---
+
+## 🎮 Interactive Gameplay
+
+* Drag & Drop Support
+* Touch Controls for Mobile Devices
+* Tile Highlighting
+* Correct Position Indicators
+* Smooth Piece Swapping
+
+---
+
+## ⏱ Game Statistics
+
+The game tracks:
+
+* Live Timer
+* Move Counter
+* Correct Pieces
+* Selected Difficulty
+
+---
+
+## 🏆 Results & Leaderboard
+
+After completing the puzzle, the application displays:
+
+* Final Completion Time
+* Total Moves
+* Difficulty Level
+* Best Scores
+
+Leaderboard data is stored using **Local Storage**, allowing results to persist across sessions.
+
+---
+
+## 🎨 User Experience
+
+* Responsive Design
+* Modern UI
+* Smooth Animations
+* Retake Photo Option
+* Play Again Button
+* Capture New Photo
+* Mobile-Friendly Layout
+
+---
+
+# Technologies Used
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+* HTML5 Canvas API
+* MediaDevices (Webcam API)
+* Drag & Drop API
+* Touch Events API
+* Local Storage API
+
+---
+
+# Skills Practiced
+
+* Prompt Engineering
+* Frontend Development
+* HTML5 APIs
+* Canvas Image Processing
+* Webcam Integration
+* JavaScript Game Logic
+* Responsive Design
+* Browser Storage Management
+
+---
+
+# Key Learnings
+
+## 1. AI Can Generate Complete Interactive Applications
+
+Claude AI can build fully functional browser-based games with advanced features using a single structured prompt.
+
+---
+
+## 2. HTML5 APIs Enable Powerful Web Experiences
+
+Using the **MediaDevices API** and **Canvas API**, modern browsers can support real-time camera access and image manipulation without external software.
+
+---
+
+## 3. Prompt Quality Directly Impacts Application Quality
+
+Providing detailed and structured prompts results in richer functionality and a more polished user experience.
+
+---
+
+## 4. Responsive Design Is Essential
+
+Building for both desktop and mobile ensures accessibility and usability across different devices.
+
+---
+
+# Gameplay Flow
+
+1. Open the application
+2. Allow webcam access
+3. Capture your photo
+4. Select puzzle difficulty
+5. Solve the puzzle using drag-and-drop or touch controls
+6. View completion statistics
+7. Save your best score to the leaderboard
+
+---
+
+# Project Highlights
+
+✅ Webcam Photo Capture
+
+✅ Dynamic Puzzle Generation
+
+✅ Drag & Drop Gameplay
+
+✅ Touch Gesture Support
+
+✅ Live Timer
+
+✅ Move Counter
+
+✅ Win Detection
+
+✅ Local Leaderboard
+
+✅ Responsive UI
+
+---
+
+# Screenshots Included
+
+* Home Screen
+* Live Camera Preview
+* Photo Capture
+* Puzzle Gameplay
+* Completed Puzzle
+* Results Screen
+* Leaderboard
+
+---
+
+# Project Structure
+
+```text
+Day20/
+│
+├── day20.md
+├── face-puzzle-game.html
+├── home-screen.png
+├── camera-preview.png
+├── puzzle-gameplay.png
+├── puzzle-completed.png
+├── results-screen.png
+└── leaderboard.png
+```
+
+---
+
+# Key Takeaway
+
+AI is becoming a powerful development partner capable of generating complete, interactive web applications.
+
+This project demonstrated how combining **Prompt Engineering**, **Frontend Development**, and **HTML5 browser APIs** can create engaging user experiences with minimal manual coding.
+
+---
+
+## Challenge Progress
+
+✅ Day 1 – AI Personality Profile
+
+✅ Day 2 – Prompt Engineering
+
+✅ Day 3 – Role-Based Prompting
+
+✅ Day 4 – AI Career Roadmap
+
+✅ Day 5 – Context Engineering
+
+✅ Day 6 – ATS Resume Optimization
+
+✅ Day 7 – Claude Models & Effort Levels
+
+✅ Day 8 – Environmental Health Analyzer
+
+✅ Day 9 – NutriScope Nutrition Dashboard
+
+✅ Day 10 – AI Portfolio Website
+
+✅ Day 11 – ATS Resume Optimizer
+
+✅ Day 12 – Personal Branding Toolkit
+
+✅ Day 13 – AI Job Discovery System
+
+✅ Day 14 – Job Red Flag Detector
+
+✅ Day 15 – AI Life Analysis
+
+✅ Day 16 – Stock Fundamental Research Skill
+
+✅ Day 17 – Vehicle Cost Analysis Dashboard
+
+✅ Day 18 – Brain Dump Action Planner
+
+✅ Day 19 – Football Intelligence Hub
+
+✅ Day 20 – AI Face Puzzle Game
+
+---
+
+## Connect With Me
+
+💼 **LinkedIn:** https://www.linkedin.com/in/himanshu-dixit-7907208a/
+
+💻 **GitHub:** https://github.com/Hmnsdixit
+
+---
+
+**#60DaysClaudeChallenge #ClaudeAI #ABTalksOnAI #PromptEngineering #FrontendDevelopment #GameDevelopment #JavaScript #HTML5 #WebDevelopment #LearningInPublic #BuildInPublic #AIProjects**
