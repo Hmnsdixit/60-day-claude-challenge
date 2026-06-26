@@ -1,0 +1,206 @@
+# 🚀 Day 26 – Prior Authorization Workflow Simulator
+
+## 📌 Challenge Overview
+
+Day 26 focused on building an interactive **Prior Authorization Workflow Simulator** using Claude AI. The application simulates the real-world healthcare insurance prior authorization process through a gamified drag-and-drop experience.
+
+The objective was to understand how patient requests move through healthcare providers and insurance payers before treatment approval.
+
+---
+
+# 🏥 Project Description
+
+**Prior Authorization Workflow Simulator**
+
+An interactive web application that demonstrates the complete Prior Authorization (PA) workflow used in the US healthcare system.
+
+The simulator helps users understand every stage of the authorization process while providing educational explanations and workflow tracking.
+
+---
+
+# 🎯 Key Features
+
+✅ Three Workflow Lanes
+- Patient
+- Provider
+- Payer
+
+✅ Drag-and-Drop Workflow Simulation
+
+✅ Multiple Patient Scenarios
+- Elective Surgery
+- MRI Scan
+- Specialty Medication
+- Inpatient Admission
+
+✅ Medical Necessity Evaluation
+
+✅ Prior Authorization Document Collection
+
+✅ Submit Request to Payer
+
+✅ Workflow Outcomes
+- Approval
+- Pend
+- Denial
+- Appeal
+- Peer-to-Peer Review
+
+✅ Educational Guidance After Every Step
+
+✅ Workflow Progress Tracker
+
+✅ Days Elapsed Counter
+
+✅ Efficiency Score
+
+✅ Celebration Animation on Approval
+
+✅ Workflow Summary Dashboard
+
+✅ Restart / New Patient Functionality
+
+---
+
+# 📋 Workflow Stages
+
+### 1️⃣ Patient Registration
+
+Collect patient information and select a clinical scenario.
+
+↓
+
+### 2️⃣ Medical Necessity Review
+
+Evaluate whether the requested treatment meets clinical guidelines.
+
+↓
+
+### 3️⃣ Document Collection
+
+Prepare required documents:
+- Physician Notes
+- Diagnosis
+- Lab Reports
+- Imaging Reports
+- Insurance Information
+
+↓
+
+### 4️⃣ Prior Authorization Submission
+
+Submit the completed authorization request to the insurance payer.
+
+↓
+
+### 5️⃣ Payer Review
+
+Insurance company evaluates:
+- Medical necessity
+- Coverage eligibility
+- Supporting documentation
+
+↓
+
+### 6️⃣ Decision
+
+Possible outcomes:
+
+- ✅ Approved
+- ⏳ Pending
+- ❌ Denied
+
+↓
+
+### 7️⃣ Appeal (If Required)
+
+Provider submits additional documentation or requests Peer-to-Peer Review.
+
+---
+
+# 👨‍⚕️ Patient Scenarios
+
+### Elective Surgery
+Difficulty: Easy
+
+### MRI Scan
+Difficulty: Easy
+
+### Specialty Medication
+Difficulty: Medium
+
+### Inpatient Admission
+Difficulty: Hard
+
+---
+
+# 📊 Dashboard Components
+
+- Workflow Progress Bar
+- Journey Tracker
+- Days Elapsed Counter
+- Efficiency Score
+- Educational Panel
+- Workflow Summary
+- Outcome Status
+
+---
+
+# 🛠 Technologies Used
+
+- Claude AI
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Drag-and-Drop API
+- Prompt Engineering
+
+---
+
+# 🎓 Key Learnings
+
+- Prior Authorization is a critical healthcare workflow before many treatments are approved.
+- Proper documentation significantly reduces approval delays.
+- Insurance decisions depend on medical necessity and policy compliance.
+- Interactive simulations make complex business processes easier to understand.
+- AI can rapidly generate educational workflow applications.
+
+---
+
+# 💡 Real-World Applications
+
+- Healthcare Training
+- Insurance Operations
+- Hospital Staff Onboarding
+- Medical Administration
+- HealthTech Education
+- Process Simulation
+
+---
+
+# 📂 Deliverables
+
+- Prior Authorization Workflow Simulator (HTML)
+- Interactive Drag-and-Drop Workflow
+- Healthcare Dashboard
+- Workflow Summary
+- Screenshots
+- Project Documentation
+
+---
+
+# 🚀 Outcome
+
+This project demonstrated how AI can simplify complex healthcare workflows into engaging, educational, and interactive applications while improving understanding of real-world insurance authorization processes.
+
+---
+
+## 📚 Key Takeaway
+
+> "Technology is most impactful when it transforms complex real-world workflows into simple, interactive learning experiences."
+
+---
+
+### ✅ Day 26 Complete
+
+**#Day26 #ClaudeAI #Healthcare #HealthTech #PriorAuthorization #WorkflowAutomation #HTML #JavaScript #PromptEngineering #BuildInPublic #AIProjects #ABTalksOnAI #LearningInPublic**
