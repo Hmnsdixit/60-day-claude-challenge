@@ -1,0 +1,248 @@
+# 🚀 Day 29 – Operation Lifeline: Supply Chain Crisis Lab
+
+## 📌 Challenge Overview
+
+Day 29 focused on building **Operation Lifeline**, an interactive **Supply Chain Crisis Management Simulator** using **Claude AI**. The application simulates real-world supply chain disruptions where users take the role of a supply chain leader and make strategic decisions to protect business operations.
+
+This project combines business strategy, crisis management, negotiation, leadership, and AI-driven decision-making into a gamified learning experience.
+
+---
+
+# 🏭 Project Description
+
+**Operation Lifeline: Supply Chain Crisis Lab**
+
+A single-page React application that allows users to experience supply chain crisis management through interactive simulations, supplier negotiations, executive decisions, and AI investment strategies.
+
+Each simulation generates unique companies, crises, and business outcomes to create a new learning experience every time.
+
+---
+
+# 🎯 Key Features
+
+✅ Random Fictional Company Generator
+
+✅ Dynamic Supply Chain Crisis Scenarios
+
+✅ War Room Decision Engine
+
+✅ Supplier Negotiation Simulator
+
+✅ CEO Leadership Assessment
+
+✅ AI Strategy Investment Module
+
+✅ Executive Performance Dashboard
+
+✅ Animated Business KPI Progress Bars
+
+✅ Personalized Business Feedback
+
+✅ Replay with New Random Scenarios
+
+---
+
+# 📊 Simulation Flow
+
+### 1️⃣ Welcome Screen
+
+- Introduction to Operation Lifeline
+- Simulation objectives
+- Start Simulation button
+
+---
+
+### 2️⃣ Company Profile
+
+Randomly generates:
+
+- Company Name
+- Industry
+- Annual Revenue
+- Factories
+- Warehouses
+- Suppliers
+- Inventory Days
+- Lead Time
+- Operating Countries
+
+---
+
+### 3️⃣ Supply Chain Crisis
+
+Possible scenarios include:
+
+- Factory Fire
+- Supplier Bankruptcy
+- Port Strike
+- Cyberattack
+- Flood
+- Raw Material Shortage
+- Political Conflict
+- Shipping Delay
+
+Each scenario displays:
+
+- Urgency Level
+- Business Impact
+- Operational Risk
+
+---
+
+### 4️⃣ War Room
+
+Choose **3 response actions** from multiple strategic options.
+
+Example actions:
+
+- Expedite Shipments
+- Shift to Alternate Ports
+- Source New Suppliers
+- Increase Inventory
+- Customer Communication
+
+Business metrics update dynamically:
+
+- Cost
+- Inventory
+- Profit
+- Delivery Speed
+- Customer Satisfaction
+
+---
+
+### 5️⃣ Supplier Negotiation
+
+Participate in four negotiation rounds.
+
+Track:
+
+- Trust
+- Price
+- Lead Time
+
+Generate a final negotiation score.
+
+---
+
+### 6️⃣ CEO Boardroom
+
+Answer executive leadership questions focused on:
+
+- Crisis Management
+- Customer Priorities
+- Cost Control
+- Long-Term Strategy
+- Business Continuity
+
+Leadership decisions influence final performance.
+
+---
+
+### 7️⃣ AI Strategy
+
+Choose **2 AI investments** from:
+
+- Demand Forecasting
+- Inventory Optimization
+- Supplier Risk Monitoring
+- Warehouse Vision
+- Procurement Copilot
+
+View expected business improvements.
+
+---
+
+### 8️⃣ Executive Dashboard
+
+Displays:
+
+- Overall Crisis Score
+- Leadership Score
+- Negotiation Score
+- Resilience
+- Cost Control
+- Risk Management
+- Customer Satisfaction
+
+Includes:
+
+- Biggest Strength
+- Biggest Mistake
+- Best Decision
+- Expert Recommendation
+- Lessons Learned
+
+---
+
+# 📈 Business Metrics
+
+- Crisis Score
+- Leadership Performance
+- Negotiation Effectiveness
+- Cost Impact
+- Inventory Health
+- Delivery Performance
+- Customer Satisfaction
+- Risk Management
+
+---
+
+# 🛠 Technologies Used
+
+- Claude AI
+- React (CDN)
+- Babel JSX
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Prompt Engineering
+
+---
+
+# 🎓 Key Learnings
+
+- Supply chain resilience depends on proactive planning and informed decision-making.
+- Crisis management requires balancing cost, speed, customer satisfaction, and operational stability.
+- Supplier relationships and negotiations significantly influence business continuity.
+- AI technologies can improve forecasting, inventory optimization, and supplier risk monitoring.
+- Prompt engineering enables rapid development of realistic business simulations and interactive learning tools.
+
+---
+
+# 🌍 Real-World Applications
+
+- Supply Chain Management Training
+- Logistics & Operations Education
+- Business Strategy Workshops
+- Crisis Management Simulation
+- Executive Leadership Development
+- AI in Operations Learning
+
+---
+
+# 📂 Deliverables
+
+- Operation Lifeline HTML Application
+- Interactive Crisis Simulation
+- Executive Dashboard
+- Screenshots
+- Project Documentation
+
+---
+
+# 🚀 Outcome
+
+Operation Lifeline demonstrates how AI can transform complex supply chain and business strategy concepts into engaging, interactive simulations. The project provides practical insights into leadership, negotiation, resilience, and AI-driven decision-making in modern supply chains.
+
+---
+
+## 💡 Key Takeaway
+
+> **"Great supply chain leaders don't eliminate crises—they prepare for them, make informed decisions, and leverage AI to build resilient businesses."**
+
+---
+
+### ✅ Day 29 Complete
+
+**#Day29 #ClaudeAI #SupplyChain #Logistics #ReactJS #JavaScript #PromptEngineering #GenerativeAI #AI #BusinessStrategy #Operations #BuildInPublic #LearningInPublic #ABTalks**
