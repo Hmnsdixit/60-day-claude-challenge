@@ -19,7 +19,7 @@ Welcome to my 60-day journey of learning, building, and experimenting with Claud
 #60DaysClaudeChallenge #PromptEngineering #ClaudeAI
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/himanshu-dixit-a91630240
+https://www.linkedin.com/in/himanshu-dixit-7907208a/
 
 ---
 Building Today. Impacting Tomorrow. 🚀
