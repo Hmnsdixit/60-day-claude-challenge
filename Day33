@@ -1,0 +1,199 @@
+# 🚀 Day 33 – Media Integrity Analyzer
+
+## 📌 Challenge Overview
+
+Day 33 focused on building **Media Integrity Analyzer**, an interactive educational web application powered by **Claude AI**. The goal of this project is to teach **media literacy through guided discovery**, enabling users to recognize misleading headlines, emotional manipulation, and audience targeting rather than simply consuming online content.
+
+The application combines **interactive learning, critical thinking, prompt engineering, and frontend development** into a modern, engaging experience.
+
+---
+
+# 📰 Project Description
+
+**Media Integrity Analyzer**
+
+A single-file HTML application that helps users analyze news headlines and social media content through hands-on activities. Instead of testing prior knowledge, the application teaches users how to think critically by revealing insights after each challenge.
+
+Every session generates new fictional scenarios, making the learning experience fresh and replayable.
+
+---
+
+# ✨ Key Features
+
+✅ Interactive Headline Detective
+
+✅ Emotion Detector Challenge
+
+✅ Live Media Integrity Metrics
+
+✅ Theme Selection (Including Claude Orange)
+
+✅ Guided Learning Experience
+
+✅ Headline Accuracy Analysis
+
+✅ Source Reliability Insights
+
+✅ Emotional Manipulation Detection
+
+✅ Audience Targeting Analysis
+
+✅ Media Integrity Dashboard
+
+✅ Replay with New Scenarios
+
+✅ Responsive Premium Dark UI
+
+---
+
+# 📖 Learning Journey
+
+### 1️⃣ Welcome Screen
+
+Learn:
+
+- What is Media Literacy?
+- Why Critical Thinking Matters
+- How Headlines Influence Decisions
+- Why We Should Verify Information Before Sharing
+
+---
+
+### 2️⃣ Theme Selection
+
+Choose your preferred interface:
+
+- 🟧 Claude Orange
+- 🔵 Ocean Blue
+- 🟢 Matrix Green
+- 🟣 Royal Purple
+- 🔷 Cyber Teal
+
+---
+
+### 3️⃣ Challenge 1 – Headline Detective
+
+Users receive a fictional news headline and article.
+
+They answer:
+
+- Would you click it?
+- Which parts appear exaggerated?
+- What seems misleading?
+
+After submission, the app reveals:
+
+- Headline Accuracy Score
+- Highlighted Mismatches
+- Explanation
+- Fair Rewritten Headline
+- Key Takeaway
+
+---
+
+### 4️⃣ Challenge 2 – Emotion Detector
+
+Analyze a fictional social media post or article excerpt.
+
+Users identify:
+
+- Their emotional reaction
+- Words that influenced their feelings
+
+The application reveals:
+
+- Target Audience
+- Intended Emotional Response
+- Manipulation Technique
+- Highlighted Emotional Language
+- Neutral Rewrite
+- Key Takeaway
+
+---
+
+# 📊 Live Media Integrity Metrics
+
+The dashboard updates throughout the experience:
+
+- 📰 Headline Accuracy
+- 🛡 Source Reliability
+- ❤️ Emotional Manipulation
+- 🎯 Audience Targeting
+
+---
+
+# 📈 Final Media Integrity Dashboard
+
+At the end of the experience, users receive:
+
+- Overall Media Integrity Score
+- Learning Summary
+- Biggest Red Flag
+- Three Practical Media Literacy Habits
+- Replay Option with New Scenarios
+
+---
+
+# 🤖 Prompt Engineering Learning
+
+Each major section includes a reusable **"How to Ask Claude"** prompt, helping users improve their prompt engineering skills while learning media literacy concepts.
+
+---
+
+# 🛠 Technologies Used
+
+- Claude AI
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Prompt Engineering
+
+---
+
+# 🎓 Key Learnings
+
+- Headlines are designed to attract attention, but not all accurately represent the full story.
+- Emotional language can strongly influence opinions and engagement.
+- Always evaluate sources before accepting or sharing information.
+- Media literacy is a critical digital skill in today's information-driven world.
+- AI can be used to create engaging educational experiences that promote critical thinking.
+
+---
+
+# 🌍 Real-World Applications
+
+- Digital Media Literacy Education
+- Critical Thinking Training
+- Journalism & Communication Courses
+- Fake News Awareness Programs
+- Corporate Digital Literacy Workshops
+- AI-Powered Educational Platforms
+
+---
+
+# 📂 Deliverables
+
+- Media Integrity Analyzer HTML Application
+- Interactive Learning Experience
+- Live Media Integrity Dashboard
+- Educational Challenges
+- Screenshots
+- Project Documentation
+
+---
+
+# 🚀 Outcome
+
+Media Integrity Analyzer transforms media literacy into an engaging, hands-on learning experience. Users learn how to evaluate headlines, recognize emotional manipulation, identify audience targeting techniques, and become more responsible digital citizens through AI-powered educational simulations.
+
+---
+
+## 💡 Key Takeaway
+
+> **"The smartest media consumers don't believe everything they read—they pause, question, verify, and think critically before reacting or sharing."**
+
+---
+
+### ✅ Day 33 Complete
+
+**#Day33 #ClaudeAI #MediaLiteracy #CriticalThinking #PromptEngineering #HTML #CSS #JavaScript #FrontendDevelopment #GenerativeAI #DigitalLiteracy #BuildInPublic #LearningInPublic #ABTalks**
