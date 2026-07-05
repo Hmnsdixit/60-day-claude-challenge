@@ -1,0 +1,215 @@
+# 🚀 Day 35 – Prompt Puzzle: Master AI Prompting Through Play
+
+## 📌 Challenge Overview
+
+For **Day 35** of the **60 Days Claude AI Challenge by ABTalks**, I built **🧩 Prompt Puzzle – Master AI Prompting Through Play**, an interactive web application that transforms prompt engineering into a fun, gamified learning experience.
+
+Instead of memorizing prompt templates, users improve their AI prompting skills by solving real-world challenges, comparing prompt quality, and understanding why optimized prompts generate better AI responses.
+
+---
+
+# 🎯 Project Objective
+
+Prompt engineering is one of the most valuable AI skills today.
+
+This project helps beginners and intermediate learners practice writing effective prompts through interactive puzzles, drag-and-drop activities, and performance-based feedback.
+
+---
+
+# ✨ Key Features
+
+✅ Domain Selection (Marketing, Healthcare, Coding, Education, Business, Finance & more)
+
+✅ Difficulty Levels (Beginner, Intermediate, Advanced)
+
+✅ Randomized Prompt Engineering Scenarios
+
+✅ Three Interactive Challenge Types
+
+- Build the Prompt
+- Clean the Prompt
+- Choose the Best Prompt
+
+✅ Drag-and-Drop Prompt Builder
+
+✅ Weak vs Optimized vs Over-Engineered Prompt Comparison
+
+✅ AI Output Comparison
+
+✅ Prompt Engineering Principles
+
+✅ Live Performance Scoring
+
+- Accuracy
+- Time
+- Moves
+- Wrong Placements
+- Hints Used
+- Optimization Bonus
+
+✅ Prompt DNA Visualization
+
+✅ Personalized Prompt Performance Report
+
+✅ Replay with New Randomized Scenarios
+
+---
+
+# 🎮 Gameplay Flow
+
+### 1️⃣ Choose Your Domain
+
+Practice prompting for different industries such as:
+
+- Marketing
+- Programming
+- Healthcare
+- Education
+- Finance
+- Business
+- Content Writing
+- Customer Support
+
+---
+
+### 2️⃣ Select Difficulty
+
+Choose your experience level:
+
+- 🟢 Beginner
+- 🟡 Intermediate
+- 🔴 Advanced
+
+---
+
+### 3️⃣ Solve Prompt Challenges
+
+Each session generates **6–8 randomized scenarios**.
+
+Every scenario includes:
+
+- Desired Output
+- Correct Prompt Blocks
+- Distractor Blocks
+- Weak Prompt
+- Optimized Prompt
+- Over-Engineered Prompt
+- Weak AI Output
+- Optimized AI Output
+- Prompt Principle
+
+---
+
+### 4️⃣ Challenge Types
+
+#### 🧩 Build the Prompt
+
+Arrange the correct prompt blocks to create the best AI prompt.
+
+---
+
+#### 🧹 Clean the Prompt
+
+Remove unnecessary information while keeping the prompt effective.
+
+---
+
+#### 🎯 Choose the Best Prompt
+
+Compare multiple prompts and identify the most effective one.
+
+---
+
+# 📊 Live Performance Metrics
+
+The application tracks:
+
+- 🎯 Accuracy
+- ⏱ Time Taken
+- 👣 Total Moves
+- ❌ Wrong Placements
+- 💡 Hints Used
+- ⭐ Optimization Bonus
+
+---
+
+# 🧬 Prompt Performance Report
+
+At the end of the game, users receive:
+
+- Prompt Score
+- Rating
+- Rank
+- Prompt DNA Visualization
+- Personalized Feedback
+- Next Learning Milestone
+- Final Optimized Prompt
+
+---
+
+# 🛠 Technologies Used
+
+- Claude AI
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Prompt Engineering
+
+---
+
+# 📚 Key Learnings
+
+- Prompt engineering is about communication, not memorization.
+- Clear context produces better AI responses.
+- Small prompt improvements can significantly improve AI output quality.
+- Comparing weak and optimized prompts helps understand best practices.
+- Interactive learning makes prompt engineering easier to master.
+
+---
+
+# 🌍 Real-World Applications
+
+- AI Prompt Engineering Training
+- LLM Skill Development
+- AI Education Platforms
+- Corporate AI Upskilling
+- Student Learning Tools
+- Interactive AI Workshops
+
+---
+
+# 📂 Deliverables
+
+- Prompt Puzzle HTML Application
+- Interactive Drag-and-Drop Gameplay
+- Prompt Performance Dashboard
+- AI Output Comparison Module
+- Screenshots
+- Project Documentation
+
+---
+
+# 🚀 Outcome
+
+Prompt Puzzle turns prompt engineering into an engaging learning experience where users build, improve, and evaluate prompts through practical challenges. By combining gamification with AI education, the application helps users develop stronger prompting skills that can be applied across multiple domains.
+
+---
+
+## 💡 Key Takeaway
+
+> **"Great AI results don't come from longer prompts—they come from clearer, more intentional prompts. The better you communicate with AI, the better AI works for you."**
+
+---
+
+## 🔗 Challenge
+
+**60 Days Claude AI Challenge by ABTalks**
+
+Join the challenge and build AI-powered projects every day:
+https://www.abtalks.in/?ref=APNQP4
+
+---
+
+### ✅ Day 35 Complete
+
+**#Day35 #60DayClaudeChallenge #ClaudeAI #PromptEngineering #ArtificialIntelligence #GenerativeAI #AI #HTML #CSS #JavaScript #FrontendDevelopment #WebDevelopment #InteractiveLearning #BuildInPublic #LearningInPublic #AIProjects #ABTalks**
