@@ -1,0 +1,165 @@
+# ⚖️ Day 48 – Compare & Decide Builder
+
+> **Research-Backed Decision Intelligence Platform Powered by Claude AI**
+
+## 📌 Overview
+
+**Compare & Decide Builder** is an AI-powered decision support application designed to help users confidently compare multiple options using **verified research, transparent citations, and customizable decision criteria**.
+
+Instead of providing fixed rankings or opinion-based recommendations, the application guides users through an interactive questionnaire, researches credible sources, evaluates each option against measurable criteria, and generates a dynamic ranking based on the user's priorities.
+
+Every comparison emphasizes **transparency**, **source attribution**, and **explainable decision-making**.
+
+---
+
+## ✨ Features
+
+* ⚖️ Interactive Decision Interview (MCQ-Based)
+* 📊 Dynamic Weighted Decision Matrix
+* 🎯 Customizable Criteria Weights
+* 📚 Research-Backed Comparisons
+* 🔗 Visible Source & Citation Panel
+* 🧠 Transparent Research Methodology
+* 📈 Live Ranking Updates
+* 📋 Detailed Comparison Matrix
+* 📑 Executive Decision Summary
+* 💡 AI-Assisted Recommendations
+* ⚠️ Estimate & Placeholder Detection
+* 📄 Exportable Decision Report
+* 📱 Fully Responsive Design
+* 🌙 Premium Dark Mode UI
+* 💻 Single Self-Contained HTML Application
+
+---
+
+## 🧠 Decision Workflow
+
+The application follows a structured research and comparison pipeline.
+
+```text
+User Interview
+      │
+      ▼
+Decision Context Collection
+      │
+      ▼
+Criteria Selection
+      │
+      ▼
+Source Discovery
+      │
+      ▼
+Research Verification
+      │
+      ▼
+Comparison Matrix
+      │
+      ▼
+Weighted Scoring Engine
+      │
+      ▼
+Live Ranking Updates
+      │
+      ▼
+Decision Report
+```
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+* Claude AI
+* Responsive Web Design
+* Glassmorphism UI
+* Modern Dashboard Components
+
+---
+
+## 📊 Dashboard Modules
+
+* Interactive Interview Wizard
+* Criteria Weight Sliders
+* Live Ranking Cards
+* Comparison Matrix
+* Score Breakdown
+* Research Sources Panel
+* Research Methodology
+* Executive Summary
+* Decision Confidence Report
+* Export Report Feature
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped me strengthen my knowledge of:
+
+* AI-Assisted Decision Systems
+* Prompt Engineering
+* Research Workflow Design
+* Explainable AI (XAI)
+* Data Visualization
+* Dashboard UI/UX
+* Frontend Architecture
+* Vanilla JavaScript
+* Responsive Design
+* User-Centered Product Design
+
+---
+
+## 🚀 Future Improvements
+
+* Multi-LLM Support
+* AI Recommendation Explanations
+* PDF & Excel Report Export
+* Saved Decision History
+* Team Collaboration
+* Real-Time Web Research Integration
+* Side-by-Side Product Comparison
+* Price Tracking
+* Smart Recommendation Engine
+* Mobile PWA Support
+
+---
+
+## 📷 Preview
+
+> A premium SaaS-inspired dashboard featuring live weighted rankings, interactive comparison matrices, transparent citations, customizable scoring, and research methodology—all designed to help users make confident, data-driven decisions.
+
+---
+
+## 📚 Challenge
+
+This project was built as part of the **ABTalks 60-Day Claude AI Challenge**.
+
+**Day:** **48 / 60**
+
+---
+
+## 👨‍💻 Author
+
+**Himanshu Dixit**
+
+Building AI-powered applications, exploring Generative AI, and sharing my learning journey in public through the **60-Day Claude AI Challenge**.
+
+---
+
+## 🔗 Connect
+
+* **GitHub:** https://github.com/Hmnsdixit
+* **LinkedIn:** https://www.linkedin.com/in/himanshu-dixit-7907208a
+* **ABTalks Challenge:** https://www.abtalks.in/?ref=APNQP4
+
+---
+
+## ⭐ Support
+
+If you found this project helpful or interesting:
+
+* ⭐ Star this repository
+* 🍴 Fork it and build your own version
+* 💬 Share your feedback or suggestions
+* 🚀 Follow my **60-Day Claude AI Challenge** journey for more AI-powered projects!
