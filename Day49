@@ -1,0 +1,193 @@
+# 🧠 Day 49 – Personal AI Playbook
+
+> **Build, Organize, and Scale Your AI Workflows with Claude AI**
+
+## 📌 Overview
+
+**Personal AI Playbook** is a personalized AI workflow management application that helps users create, organize, and optimize reusable AI systems instead of maintaining hundreds of isolated prompts.
+
+The application begins with an interactive interview to understand how users work with AI, then automatically generates a customized playbook tailored to their profession, goals, workflows, and preferred AI models.
+
+Rather than focusing on one-off prompts, the platform encourages users to build **modular, reusable AI workflow systems** that can be adapted across different tasks.
+
+---
+
+## ✨ Features
+
+* 🧠 Personalized AI Workflow Dashboard
+* 📋 Interactive Onboarding Interview
+* ✍️ Modular Prompt Builder
+* 🔄 Autonomous Loop Builder
+* 🧩 Reusable Prompt Components
+* 👤 Personalized Workflow Categories
+* ⭐ Create, Edit, Duplicate & Favorite Workflows
+* 🔍 Search & Filter Workflows
+* 💾 Local Storage Support
+* 📤 Import & Export Playbooks
+* 📄 Editable Workflow Templates
+* ⚙️ Custom Variables & Parameters
+* ❓ Persistent "What is this?" Help Panel
+* 🎓 Built-in Guidance for Every Prompt Block
+* ⌨️ Keyboard Shortcuts
+* 🌙 Responsive Dark Theme
+* 💻 Single Self-Contained HTML Application
+
+---
+
+## 🧠 AI Workflow Architecture
+
+The application transforms simple prompts into reusable AI systems through a structured workflow.
+
+```text
+User Interview
+      │
+      ▼
+Profile Personalization
+      │
+      ▼
+Workflow Categories
+      │
+      ▼
+Prompt Builder
+      │
+      ▼
+Reusable Prompt Blocks
+      │
+      ▼
+Loop Builder
+      │
+      ▼
+Workflow Library
+      │
+      ▼
+Import / Export
+      │
+      ▼
+Personal AI Playbook
+```
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+* Claude AI
+* Local Storage API
+* Responsive Web Design
+* Glassmorphism UI
+* Modern Dashboard Components
+
+---
+
+## 📊 Main Modules
+
+### 📋 Dashboard
+
+A personalized overview of AI workflows, categories, and productivity insights.
+
+### ✍️ Prompt Builder
+
+Create prompts using reusable building blocks such as:
+
+* Role
+* Objective
+* Context
+* Constraints
+* Reasoning Strategy
+* Output Format
+* Tone
+* Examples
+* Quality Checks
+
+### 🔄 Loop Builder
+
+Transform a standard prompt into an autonomous workflow by defining:
+
+* Goal
+* Evaluation Criteria
+* Improvement Strategy
+* Stop Conditions
+* Safety Rules
+
+### 📂 Workflow Library
+
+Organize, edit, duplicate, search, filter, and favorite workflows with ease.
+
+### 💾 Import & Export
+
+Backup or share your complete AI workflow library.
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped me strengthen my understanding of:
+
+* Prompt Engineering
+* AI Workflow Design
+* Human-Centered UX
+* Productivity Systems
+* Reusable AI Architectures
+* Frontend Development
+* Vanilla JavaScript
+* Local Storage Management
+* Responsive UI Design
+* Modular Software Design
+
+---
+
+## 🚀 Future Improvements
+
+* Multi-LLM Support
+* Cloud Synchronization
+* AI Workflow Marketplace
+* Team Collaboration
+* Version History
+* Workflow Analytics
+* Voice Prompt Builder
+* Mobile PWA Support
+* AI Performance Tracking
+* GitHub Integration
+
+---
+
+## 📷 Preview
+
+> A premium SaaS-inspired dashboard featuring personalized AI workflows, modular prompt building, autonomous loop creation, workflow management, import/export functionality, and a responsive dark-mode interface.
+
+---
+
+## 📚 Challenge
+
+This project was built as part of the **ABTalks 60-Day Claude AI Challenge**.
+
+**Day:** **49 / 60**
+
+---
+
+## 👨‍💻 Author
+
+**Himanshu Dixit**
+
+Exploring AI, Prompt Engineering, and Workflow Automation by building practical projects and sharing the journey publicly through the **60-Day Claude AI Challenge**.
+
+---
+
+## 🔗 Connect
+
+* **GitHub:** https://github.com/Hmnsdixit
+* **LinkedIn:** https://www.linkedin.com/in/himanshu-dixit-7907208a
+* **ABTalks Challenge:** https://www.abtalks.in/?ref=APNQP4
+
+---
+
+## ⭐ Support
+
+If you found this project useful:
+
+* ⭐ Star this repository
+* 🍴 Fork it and build your own version
+* 💬 Share your feedback and suggestions
+* 🚀 Follow my **60-Day Claude AI Challenge** journey for more AI-powered projects and learning!
